@@ -5,5 +5,5 @@ structure:
   custom: Custom.md
 customCSS: |
   * {
-    display: none;
+    font-weight: bold;
   }
