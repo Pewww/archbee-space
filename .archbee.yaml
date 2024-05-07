@@ -3,3 +3,7 @@ structure:
   readme: Introduction.md
   summary: Summary.md
   custom: Custom.md
+customCSS: |
+  * {
+    display: none;
+  }
